@@ -1,0 +1,9 @@
+{
+  "name": "@cssweekly/prettier-config-test",
+  "version": "1.0.0",
+  "description": "Prettier config test",
+  "main": ".prettierrc.js",
+  "repository": "git@github.com:zoranjambor/prettier-config-test.git",
+  "author": "Zoran Jambor <info@css-weekly.com>",
+  "license": "MIT"
+}
